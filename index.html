@@ -28,55 +28,31 @@ use-site-title: False
     <div class="row">
         <h2>Research interests</h2>
         <p>Our research focuses on algorithm development and integrative mining from high-throughput data to understand gene regulation in cancer biology.
-            We have developed a number of widely used algorithms for transcription factor motif finding, ChIP-chip / ChIP-seq / DNase-seq / CRISPR Screen data analysis.
+            We have developed a number of widely used algorithms for transcription factor motif finding, Rna-seq / ChIP-seq / ATAC-seq / CRISPR Screen data analysis.
             Through integrating genome-wide transcription factor binding, chromatin dynamics, gene expression profiles, and chemical and functional screens, we try to model the specificity and function of transcription factors, chromatin regulators, RNA binding proteins, kinases, and lncRNAs in tumor development, progression, drug response and resistance.
         </p>
     </div>
     <div class="row">
-        <h3>Cancer Epigenetics</h3>
+        <h3>Characterization of intra-tumor heterogeneity (ITH) and its impact in treatment response and drug resistance. </h3>
         <div class="col-lg-3">
             <img src="/img/research/Cistrome.png">
         </div>
         <div class="col-lg-9">
-            <p>We have been developing algorithms (MACS, Cistrome, NPS, BETA) to facilitate the analysis of epigenomic data and use integrative modeling approaches to study genomic transcriptional and epigenetic gene regulatory mechanisms underlying tumorigenesis and progression.
-                We are developing new methods to utilize the abundant public ChIP-seq data to infer functional enhancers that regulate the expression, and understand the targets and specificity of epigenetic drugs in cancers.
+            <p>Many cancers are characterized by heterogeneity among individual tumors and between regions in a single tumor. The heterogeneity between regions, termed intra-tumor heterogeneity (ITH), has been shown to contribute to treatment failure and drug resistance through mechanisms, such as the expansion of pre-existing resistant subclones or immune suppression. By coupling single cell sequencing data (single cell RNA-seq, single cell DNA-seq, CyTOF and etc.) and in situ imaging data (H&E staining, CyCIF, and etc.), we are able to decode the cell populations in different regions of a single tumor, and identify new features that impact tumor growth in different therapeutic conditions. Such features may serve as new biomarkers for treatment response or new therapeutic targets in the drug development.
             </p>
         </div>
     </div>
     <div class="row">
-        <h3>CRISPR screens</h3>
+        <h3>Modeling 3D genome organization and its control of gene expression in stem cell differentiation and cancer progression</h3>
         <div class="col-lg-3">
             <img src="/img/research/CRISPR.png">
         </div>
         <div class="col-lg-9">
             <p>
-                We are developing the computational methods for the design (SSC), analysis (MAGeCK), hit prioritization (NEST), and visualization (VISPR) of genome-wide CRISPR screens.
-                We are also using this technology to identify key genes in breast and prostate tumor progression and drug resistance.
-                We also develop CRISPR screen platforms to understand the functions of enhancers and long-noncoding RNAs, and identify synthetic lethal gene pairs in cancer that leads to optimized cancer precision medicine.
+                Mammalian genomes are organized into a hierarchy of local structures including topologically associating domains (TADs) and DNA loops. Disrupting the boundaries of such structures can lead to novel chromosomal interactions and ectopic long-range enhancer adoption, which interrupts key gene function. By using Hi-C, ChIA-PET and ChIP-seq data, we are able to precisely model the local structure of human genome and its impact in gene regulation. By using CRISPR screen with custom designed sgRNA library targeting the boundaries of such local structure, we could interrogate the mechanism of controlling gene expression through 3D genome organization.
             </p>
         </div>
     </div>
-    <div class="row">
-        <h3>Cancer Immunology</h3>
-        <div class="col-lg-3">
-            <img src="/img/research/TIMER.png">
-        </div>
-        <p>
-            We are developing novel computational algorithms to systematically deconvolve the abundance of different immune cell types.
-            Applying the deconvolution method on over 10K tumor samples from TCGA identified widespread clinical associations with tumor infiltrating immune cells.
-            Our investigations on cancer vaccine and checkpoint blockade targets suggest that systematic analyses of tumor immunity have the potential to inform effective cancer immunotherapies.
-        </p>
-    </div>
-    <div class="row">
-        <h3>Single Cell</h3>
-        <div class="col-lg-3">
-            <img src="/img/research/MAESTRO.png">
-        </div>
-        <p>
-            We are developing computational methods (<a href="http://github.com/liulab-dfci/MAESTRO">MAESTRO</a>) for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data. By integrating the public transcription factor (TF) ChIP-seq datasets in Cistrome DB, we are unraveling the regulatory network with tumor microenvironment and identifying key regulators between different immune cells. We are also developing novel computational algorithms for spatial transcriptomic data analysis.
-        </p>
-    </div>
-
 </div>
 
 <!--<div class="posts-list">-->

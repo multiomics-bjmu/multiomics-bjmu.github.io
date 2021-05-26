@@ -10,4 +10,4 @@ permalink: /news
 
 ### April
 
-# **Wu lab. is staring at CPMMR,Peking University**
+## **Wu lab. is staring at CPMMR,Peking University**

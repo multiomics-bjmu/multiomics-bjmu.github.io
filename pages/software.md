@@ -11,10 +11,10 @@ permalink: /software/
 - [**BitBucket**](https://bitbucket.org/mthjwu) &nbsp;
 
 ### ASK: Seek circular amplicons from high throughput sequencing data. 
-- [**ASK**](https://github.com/mthjwu/ask) &nbsp
+- [**ASK**](https://github.com/mthjwu/ask) 
 
 ### HiCapp: Generalized Hi-C pipeline designed for analyzing both tumor and normal samples. 
-- [**HiCapp**](https://bitbucket.org/mthjwu/hicapp) &nbsp
+- [**HiCapp**](https://bitbucket.org/mthjwu/hicapp)
 
 ### scCGI-seq: Application of EM algorithm for analyzing single cell DNA methylome
 - [**scCGI-seq**](https://bitbucket.org/mthjwu/sccgi-seq) &nbsp;

@@ -4,34 +4,62 @@ title: Careers
 permalink: /careers
 ---
 
-The laboratory of Professor X Shirley Liu at Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health invites applicants for the positions listed below. The research in the laboratory focuses on designing bioinformatics algorithms and integrative genomics approaches to model gene regulation, find novel drug targets and combinations, and predict response to targeted and immunotherapies in cancer. <br>
+吴华君博士，现为北京大学医学部精准医疗多组学研究中心研究员、博士生导师。代表性论文以第一作者或共同第一作者发表于Cancer Cell，Molecular Cell，Genome Biology，Bioinformatics等国际期刊。课题组刚刚成立，主要利用生物统计和机器学习算法进行多组学数据分析和相关方法的开发，专注于肿瘤内异质性与癌症抗药性方面的研究。具体的研究方向包括但不限于：
+（1）单细胞组学数据的分析方法开发，包括带有空间信息的组学数据；
+（2）从大规模多组学数据中挖掘抗癌靶点，并利用统计学和机器学习算法预测药物反应和联合用药效果；
+（3）抗癌药物的CRISPR筛选数据和其他组学数据的联合分析和挖掘。
 
-A representative list of recent projects and publications (with Liu Lab as major contributors) include: <br>
-- Algorithm development: (Zhang et al, Genome Biol 2008; Li et al, Genome Biol 2015; Wang et al, Genome Res 2016; Li et al, Nat Genet 2017; Wang et al, Nat Protol 2018)
-- Data integration: (Jiang et al, PNAS 2015; Jiang et al, Nat Genet 2015; Jiang et al, Genome Biol 2015; Zang et al, Nat Comm 2016 ; Du et al, Nat Comm 2016)
-- Cancer Epigenetics: (He et al, Nat Genet 2010; Xu et al, Science 2012; He et al, Nat Meth 2014; Liu et al, PNAS 2017; Mei et al, Cancer Res 2017 )
-- CRISPR screens: ( Li et al, Genome Biol 2014; Xu et al, Genome Res 2015; Zhu et al, Nat Biotech 2016; Fei et al, PNAS 2017 )
-- Cancer Immunology: ( Li et al, Nat Genet 2016 ; Liu & Mardis, Cell 2017 ; Li et al, Cancer Res 2017 ; Pan et al, Science 2017; Hu et al, Nat Genet 2019 )
 
-### [Associate Computational Biologist in translational cancer research](https://careers-dfci.icims.com/jobs/18700/associate-computational-biologist%2c-liu-lab/job?mobile=false&width=986&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
-The Shirley Liu Lab is recruiting a data scientist to develop machine learning algorithms and pipelines, build databases and interactive web servers, and conduct high-throughput data analyses and integration to model tumor immunology and understand cancer patient response to immunotherapy. We recently received funding for a Cancer Moonshot Project by the National Cancer Institute to build a Cancer Immunologic Data Commons (CIDC). NCI plans to conduct comprehensive profiling of clinical samples from immuno-oncology trials. The data scientist will work on various computational aspects of immune-profiling algorithms and analyses, with the goal of identifying biomarkers for optimizing immunotherapy strategies in cancer.
 
-### Computational biology postdoc position at the Liu Lab
-Ideal applicant should have: <br>
-1. A PhD degree in related field (bioinformatics, physics, statistics, engineering, etc) received in the last 3 years
-2. Strong quantitative background (machine learning, Bayesian inference, etc.) or computational genomics experiences (high-throughput sequence analysis, etc.)
-3. Strong programming skills: ((Python or C or C++ or Java) & R)
-4. At least two first-authored English papers (or three if co-first authors) with submitted, accepted or published status in journals
-5. Good spoken and written communication skills in English. 
-Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact information for three references to [Shirley Liu](mailto:xsliu@ds.dfci.harvard.edu) with subject line “Computational postdoctoral application”.
 
-### Experimental biology position position at the Liu Lab
-We are recruiting experimental postdoctoral fellows under the joint supervision of X. Shirley Liu and Myles Brown at the Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute. The postdoc fellow will adopt / develop cutting edge genomic technologies (e.g. CRISPR screens, scRNA-seq / scATAC-seq) to understand tumor gene regulation, identify novel tumor immune regulators, and develop tumor drug respnose / resistance biomarkers. 
-Ideal applicant should have: 
-1.	PhD graduation in biology-related field. 
-2.	Motivation, independence, and creativity.
-3.	Strong molecular, cell biology and genomics skills. 
-4.	At least two first-authored English papers (or three if co-first authors) with submitted, accepted or published status in journals
-5.	Good spoken and written communication skills in English.
-6.	Computational biology and quantitative skills are a plus!
-Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Liu Lab, and contact information for three references to [Shirley Liu](mailto:xsliu@ds.dfci.harvard.edu) with subject line “Experimental postdoctoral application”.
+
+博士后
+
+
+
+
+岗位职责
+1） 独立从事课题研究和论文撰写。
+2） 积极思考和推进项目的进展。
+3） 协助指导研究生。
+ 
+招聘条件
+1） 年龄在35周岁以下，申请一站者获得博士学位年限一般不超过两年。
+2） 具有生物信息学、生物统计学、机器学习与数据挖掘等相关领域的研究经历。
+3） 具有良好的编程基础，熟悉Linux系统，应至少精通一门编程语言（R和Python）。
+4） 具有一定的英语阅读及写作能力，已在国际学术期刊发表过研究论文。
+5） 具有较好的团队协作精神，良好的学术道德和严谨科学态度，并具备良好的沟通能力及人际交往能力，对计算生物学有浓厚的兴趣。
+6） 身体健康，能胜任岗位的工作要求。
+ 
+福利待遇
+1） 按政策享受北京大学医学部职工待遇。
+2） 薪酬福利：按照北京大学医学部博士后的相关规定办理，具体待遇面议。大力支持博士后申请北京大学医学部“博雅博后”计划，以及其它国家或者国际博士后基金。
+3） 住房：博士后按照进站时间可排队申请博士后公寓。
+4） 各类基金申请：鼓励博士后申请各类研究经费或奖励经费。 
+5） 鼓励和支持博士后的自主创新。根据学科发展和工作需要，优秀博士后符合条件可申请北京大学肿瘤医院有编制的科研岗位。
+
+1
+
+
+
+技术员
+
+
+
+岗位职责
+协助博士后和研究生的科研工作，优秀者可单独承担课题。
+
+招聘条件
+1） 本科或本科以上学历，应具备一定的生物信息学基础。优先考虑有编程基础和熟悉Linux系统的申请者。
+2） 具有生物学、生物信息学、计算机学、生物统计学或相关背景。
+3） 对计算生物学有浓厚的兴趣，有较好的英文文献阅读能力。
+4） 具有较好的团队协作精神，良好的学术道德和严谨的科学态度，并具备良好的沟通能力及人际交往能力。
+5） 身体健康，能胜任岗位的工作要求。
+ 
+福利待遇
+该岗位为合同聘用制，具体待遇根据工作经验面议。优秀者可选择在课题组读博。
+
+
+
+
+

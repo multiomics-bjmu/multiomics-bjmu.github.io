@@ -8,7 +8,7 @@ permalink: /publication
 # Publications
 
 You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYAAAAJ&hl=en) for more details<br>
-* Co-first authors
+\* Co-first authors
 
 ## 2020
 - Shaokun Shu*, **Hua-Jun Wu**\*, Jennifer Y. Ge, …, Franziska Michor, Kornelia Polyak. Synthetic lethal and resistance interactions with BET bromodomain inhibitors in triple-negative breast cancer. Molecular cell 2020 Jun 18;78(6):1096-1113.e8. doi: 10.1016/j.molcel.2020.04.027. Epub 2020 May 15.

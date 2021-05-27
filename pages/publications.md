@@ -11,7 +11,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 \* Co-first authors
 
 ## 2020
-- 24: Shaokun Shu*, **Hua-Jun Wu**\*, Jennifer Y. Ge, …, Franziska Michor, Kornelia Polyak. Synthetic lethal and resistance interactions with BET bromodomain inhibitors in triple-negative breast cancer. Molecular cell 2020 Jun 18;78(6):1096-1113.e8. doi: 10.1016/j.molcel.2020.04.027. Epub 2020 May 15.
+24. Shaokun Shu*, **Hua-Jun Wu**\*, Jennifer Y. Ge, …, Franziska Michor, Kornelia Polyak. Synthetic lethal and resistance interactions with BET bromodomain inhibitors in triple-negative breast cancer. Molecular cell 2020 Jun 18;78(6):1096-1113.e8. doi: 10.1016/j.molcel.2020.04.027. Epub 2020 May 15.
 
 ## 2019
 - 23: Weiwei Zhang, Ziyi Li, Nana Wei, **Hua-Jun Wu**, Xiaoqi Zheng. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019 Nov 26. pii: btz885. doi: 10.1093/bioinformatics/btz885.

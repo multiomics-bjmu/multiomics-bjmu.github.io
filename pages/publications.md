@@ -8,7 +8,21 @@ permalink: /publication
 # Publications
 
 You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYAAAAJ&hl=en) for more details<br>
-\* Co-first authors
+\* Co-first authors          \# Co-corresponding authors
+
+## Preprint
+
+28\. Wei, N.*, Nie, Y., Liu, L., Zheng, X.#, and **Wu, H.-J.**\# (2022) Secuer: ultrafast,  scalable and accurate clustering of single-cell RNA-seq data. https://arxiv.org/abs/2205.12432
+
+27\. **Jiang, W.-J.***, Hu, C.\*, Yi, X.*, Xu, Q., Lou, T.; **Wang, H.**; **Zhou, J.**; **Zhu, H.**; Li, Y.; Wen, Y.; Fan, R.; Shen, J.; Wong, C. C. L.#; Zhen, X.#; **Wu, H.-J.**\# (2022). Assessing base-resolution DNA mechanics on the genome scale. https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1
+
+## 2022
+
+26\. **Wu H-J**\*, Temko D\*, Maliga Z\*, Moreira A, Sei E, Minussi DC, Dean J, Lee C, Xu Q, Hochart G, Jacobson C, Yapp C, Schapiro D, Sorger P, Seeley EH, Navin N, Downey RJ, Michor F. Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients. Cell Genomics, in press.
+
+## 2021
+
+25\. **Wu HJ**\*, Landshammer A*, Stamenova EK, Bolondi A, Kretzmer H, Meissner A, Michor F. Topological isolation of developmental regulators in mammalian genomes. Nat Commun. 2021;12(1):4897.
 
 ## 2020
 24\. Shaokun Shu*, **Hua-Jun Wu**\*, Jennifer Y. Ge, …, Franziska Michor, Kornelia Polyak. Synthetic lethal and resistance interactions with BET bromodomain inhibitors in triple-negative breast cancer. Molecular cell 2020 Jun 18;78(6):1096-1113.e8. doi: 10.1016/j.molcel.2020.04.027. Epub 2020 May 15.

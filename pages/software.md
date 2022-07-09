@@ -10,6 +10,9 @@ permalink: /software/
 - [**GitHub**](https://github.com/mthjwu) &nbsp;
 - [**BitBucket**](https://bitbucket.org/mthjwu) &nbsp;
 
+### Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data
+- [**Secuer**](https://github.com/nanawei11/Secuer)
+
 ### ASK: Seek circular amplicons from high throughput sequencing data. 
 - [**ASK**](https://github.com/mthjwu/ask) 
 

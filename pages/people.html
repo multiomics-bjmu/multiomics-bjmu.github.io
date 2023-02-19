@@ -7,9 +7,13 @@ permalink: /people
 <style type="text/css">
 	.pic img{
 	height: 20%;
-	width:20%;
+	max-width:100%;
+	width: 200px; 
 	margin-right: 20px;
 	margin-left: 5%;
+	vertical-align: middle;
+	overflow:clip;
+	overflow-clip-margin: content-box;
 }
 .pic img:hover{
 	box-shadow: 0 10px 15px rgba(0,0,0,.45);
@@ -35,9 +39,11 @@ ul h3:hover{
 .block{
 	display: flex;
 	margin-bottom: 30px;
+	position:relative;
 }
 .block-right{
 	overflow: hidden;
+	display: block;
 }
 </style>
 <h1>Members</h1>

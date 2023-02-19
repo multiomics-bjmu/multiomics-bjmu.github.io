@@ -5,28 +5,57 @@ subtitle: People in Wu Lab
 permalink: /people
 ---
 <style type="text/css">
-	.pic{
-		height:20%;
-		width:20%;
-	}
-	.selfcon{
-	
-	}
+	.pic img{
+	height: 20%;
+	width:20%;
+	margin-right: 20px;
+	margin-left: 5%;
+}
+.pic img:hover{
+	box-shadow: 0 10px 15px rgba(0,0,0,.45);
+}
+ul li{
+	list-style-type: none;
+}
+/* .pic .word{
+width:100%;
+height: 100%;
+float: left;
+} */
+.hh li{
+	display:flex;
+	margin-bottom: 30px;
+}
+ul a{
+	text-decoration: none;
+}
+ul h3:hover{
+	color:#AD182D;
+}
+.block{
+	display: flex;
+	margin-bottom: 30px;
+}
+.block-right{
+	overflow: hidden;
+}
 </style>
 <h1>Members</h1>
-<ul>
+<ul class="pic">
 	<li>
 		<h2>Principle Investigator</h2>
-       		 <ul style="list-style-type: none;">
-			 <li><img src="../img/people/huajun_wu.png"><a href="/people/huajun_wu"><h3>Hua-Jun Wu, PhD</h3></a>&nbsp;
-				<p>简介（姓名，性别，几几年生，身份，经历。）</p>
-				<p>研究方向</p>
-				<p>著作</p>
-				<p>邮箱</p>
-				<p>地址</p>
-			</li>
-		</ul>
-        </li>
+       		 <div class="block">
+       		 	<img src="../img/people/huajun_wu.png"><a href="/people/huajun_wu">
+       		 		<div class="block-right">
+       		 			<h3>Hua-Jun Wu, PhD</h3></a>&nbsp;
+						<p>简介（姓名，性别，几几年生，身份，经历。）</p>
+						<p>研究方向</p>
+						<p>著作</p>
+						<p>邮箱</p>
+						<p>Address: 1/F, 12 Building, 8 Life Park Road, ZGC Life Science Park, Changping District, Beijing</p>
+       		 		</div>
+       		 </div>
+	</li>
 	<li>
 	 	<h2> Postdocs</h2>
         	<ul>
@@ -35,43 +64,51 @@ permalink: /people
 	</li>
 	<li>
 		 <h2>Students</h2>
-        	<ul style="list-style-type: none;">
-		<li><img class="pic" src="../img/people/hanwen.jpg"><a href="/people/hanwen_zhu"><h3>Han-Wen Zhu</h3></a>
-			<p>简介（姓名，性别，几几年生，身份，经历。）</p>
-			<p>研究方向</p>
-			<p>邮箱</p>
-			<p>地址</p>
-		</li>
-		<li><img src="../img/people/zeyu.png"><a href="/people/zeyu_kuang"><h3>Ze-Yu Kuang</h3></a>
-			<p>简介（姓名，性别，几几年生，身份，经历。）</p>
-			<p>研究方向</p>
-			<p>邮箱</p>
-			<p>地址</p>
-		</li>
-   		 </ul>
+		 <div class="block">
+       		 	<img class="pic" src="../img/people/hanwen.jpg"><a href="/people/hanwen_zhu">
+       		 		<div class="block-right">
+       		 			<h3>Han-Wen Zhu</h3></a>&nbsp;
+						<p>Han-wen Zhu is a graduate student in Hua-Jun Wu Lab ,who received his undergraduate degree from Shanghai Normal University. He is interested in the integration of multi-omics data in the medical field, as well as the application of medical imaging-based omics in cancer research.</p>
+						<p>E-Mail: hanwenzhu998@163.com</p>
+						<p>Address: 1/F, 12 Building, 8 Life Park Road, ZGC Life Science Park, Changping District, Beijing</p>
+       		 		</div>
+       		 </div>
+       		 <div class="block">
+       		 	<img class="pic" src="../img/people/zeyu.png"><a href="/people/zeyu_kuang">
+       		 		<div class="block-right">
+       		 			<h3>Ze-Yu Kuang</h3></a>&nbsp;
+						<p>Ze-Yu Kuang is a graduate student in Hua-Jun Wu Lab ,who received his undergraduate degree from Xi'an Jiaotong University. He is interested in the Knowledge Graph of Multi-omics in cancer research to predict cancer targets and targeted drugs.</p>
+						<p>E-Mail: wintersmon@163.com</p>
+						<p>Address: 1/F, 12 Building, 8 Life Park Road, ZGC Life Science Park, Changping District, Beijing</p>
+       		 		</div>
+       		 </div>
 	</li>
 	<li>
 		<h2>Visiting student</h2>
-       		 <ul style="list-style-type: none;">
-			<li><img src="../img/people/jialu.jpg"><a href="/people/jialu_zhou"><h3>Jia-Lu Zhou</h3></a>
-			 <p>简介（姓名，性别，几几年生，身份，经历。）</p>
-			<p>研究方向</p>
-			<p>邮箱</p>
-			<p>地址</p>
-			 </li>
-		</ul>
+       		 <div class="block">
+       		 	<img class="pic" src="../img/people/jialu.jpg"><a href="/people/jialu_zhou">
+       		 		<div class="block-right">
+       		 			<h3>Jia-Lu Zhou</h3></a>&nbsp;
+						<p>Jia-Lu Zhou is a graduate student in Hua-Jun Wu Lab ,who received her undergraduate degree from Nanchang University. She is interested in the molecular mechanism of ovarian cancer and Three-dimensional genomic regulatory mechanisms in glioma</p>
+						<p>E-Mail: kalozzhou@163.com</p>
+						<p>Address: 1/F, 12 Building, 8 Life Park Road, ZGC Life Science Park, Changping District, Beijing</p>
+       		 		</div>
+       		 </div> 
 	</li>
 	<li>
-		<h4>Technician</h4>
-		<ul style="list-style-type: none;">
-			<li><a href="/people/hanwen_zhu"><h3>Ruo-Lin Li</h3></a>
+		<h2>Technician</h2>
+		<div class="block">
+   		 	<img class="pic" src="../img/people/"><a href="/people/ruolin_li">
+	 		<div class="block-right">
+		 		<h3>Ruo-Lin Li</h3></a>&nbsp;
 				<p>简介（姓名，性别，几几年生，身份，经历。）</p>
 				<p>研究方向</p>
 				<p>邮箱</p>
-				<p>地址</p>
-			</li>
-		</ul>
+				<p>Address: 1/F, 12 Building, 8 Life Park Road, ZGC Life Science Park, Changping District, Beijing</p>
+			</div>
+       	</div>
 	</li>
+</ul>
 	
 
    

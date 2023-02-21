@@ -16,9 +16,9 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 ## 2022
 
-27\.  Wei N, Nie Y, Liu L, Zheng X, **Wu H-J** (2022) Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data. PLoS Comput Biol 18(12): e1010753. https://doi.org/10.1371/journal.pcbi.1010753
+27\.  Wei N\*, Nie Y, Liu L\#, Zheng X\#, **Wu H-J**\# (2022) Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data. PLoS Comput Biol 18(12): e1010753. https://doi.org/10.1371/journal.pcbi.1010753
 
-26\. **Wu H-J**\*, Temko D\*, Maliga Z\*, Moreira A, Sei E, Minussi DC, Dean J, Lee C, Xu Q, Hochart G, Jacobson C, Yapp C, Schapiro D, Sorger P, Seeley EH, Navin N, Downey RJ, Michor F. Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients. Cell Genomics, in press.
+26\. **Wu H-J**\*, Temko D\*, Maliga Z\*, Moreira A, Sei E, Minussi DC, Dean J, Lee C, Xu Q, Hochart G, Jacobson C, Yapp C, Schapiro D, Sorger P, Seeley EH, Navin N, Downey RJ, Michor F. Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients. Cell Genomics. 2022 Aug 10.https://doi.org/10.1016/j.xgen.2022.100165
 
 ## 2021
 

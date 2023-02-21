@@ -11,7 +11,7 @@ permalink: /news
 ---
 ## 2022
 ### -December-Publishment
-  [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.  ]     (https://doi.org/10.1371/journal.pcbi.1010753)
+  [**Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.**](https://doi.org/10.1371/journal.pcbi.1010753)
 ### -August-Publishment
   [Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients.](https://doi.org/10.1016/j.xgen.2022.100165)
 ### -June-Publishment

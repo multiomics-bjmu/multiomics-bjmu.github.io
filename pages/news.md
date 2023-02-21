@@ -11,7 +11,6 @@ permalink: /news
 Ze-Yu Kuang joins us as a student.
 - **New Member--**
 Fang-Di Xu joins us as a visiting student.
-_____
 
 # 2022
 ### December
@@ -29,7 +28,6 @@ Han-Wen Zhu joins us as a student.
 ### June
 - **Publishment--**
 [Resolving clonal substructure from single cell genomic data in primary and metastatic tumors using CopyKit.](https://doi.org/10.1158/1538-7445.AM2022-1210)
-***
   
 # 2021
 ### September
@@ -41,7 +39,6 @@ Jia-Lu Zhou joins us as a visiting student.
 
 ### March
 - Dr.Wu's lab is officially established.
-***
 
 
 

@@ -11,7 +11,8 @@ permalink: /news
 Ze-Yu Kuang joins us as a student.
 - **New Member--**
 Fang-Di Xu joins us as a visiting student.
-***
+******
+
 # 2022
 ### December
 - **Publishment--**

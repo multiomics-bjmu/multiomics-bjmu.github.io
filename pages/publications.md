@@ -75,7 +75,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 ## 2012
 7\. Wei Li, Ling Shuai, Haifeng Wan, Mingzhu Dong, …, **Hua-Jun Wu**, Zhonghua Liu, Lei Liu, Liu Wang, Xiu-Jie Wang, Xiao-Yang Zhao, Qi Zhou. Androgenetic haploid embryonic stem cells produce live transgenic mice. Nature. 2012 Oct 18;490(7420):407-11.
 
-6\. **Hua-Jun Wu***, Ying-Ke Ma*, Tong Chen, Meng Wang and Xiu-Jie Wang. psRobot: a web-based plant small RNA analysis toolbox. Nucleic Acids Research. 2012 Jul;40(W1):W22-8.
+6\. **Hua-Jun Wu***, Ying-Ke Ma*, Tong Chen, Meng Wang and Xiu-Jie Wang. PsRobot: a web-based plant small RNA meta-analysis toolbox. Nucleic Acids Research. 2012 Jul;40(W1):W22-8.
 
 5\. **Hua-Jun Wu***, Zhonghui Zhang*, Junyi Wang*, Dong-Ha Oh*, Maheshi Dassanayake*, Binghang Liu*, Quanfei Huang*, …, Jun Wang, Chengcai Chu, Shouyi Chen, Hans J Bohnert, Jian-kang Zhu, Xiu-Jie Wang and Qi Xie. Insights into salt tolerance from the genome of Thellungiella salsuginea. Proc Natl Acad Sci U S A. 2012 Jul 24;109(30):12219-24.
 

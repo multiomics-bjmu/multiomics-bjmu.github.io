@@ -12,6 +12,12 @@ Ze-Yu Kuang joins us as a student.
 - **New Member--**
 Fang-Di Xu joins us as a visiting student.
 
+### January
+- **Publishment--**
+[T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formationl Profiling](https://elifesciences.org/articles/83077)
+- **Publishment--**
+[Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling](https://www.mdpi.com/2077-0383/12/2/701)
+
 # 2022
 ### December
 - **Publishment--**

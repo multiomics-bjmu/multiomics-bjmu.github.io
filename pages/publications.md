@@ -12,11 +12,11 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 ## Preprint
 
-30\. **Jiang, W.-J.**\*, Hu, C.\*, Yi, X.*, Xu, Q., Lou, T.; **Wang, H.**; **Zhou, J.**; **Zhu, H.**; Li, Y.; Wen, Y.; Fan, R.; Shen, J.; Wong, C. C. L.#; Zhen, X.#; **Wu, H.-J.**\# (2022). Assessing base-resolution DNA mechanics on the genome scale. https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1
+30\. **Jiang W-J.**\*, Hu, C.\*, Yi, X.*, Xu, Q., Lou, T.; **Wang H-J**; **Zhou J-L**; **Zhu H-W**; Li, Y.; Wen, Y.; Fan, R.; Shen, J.; Wong, C. C. L.#; Zhen, X.#; **Wu H-J.**\# (2022). Assessing base-resolution DNA mechanics on the genome scale. https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1
 
 ## 2023
 
-29\.  Alexandro Landshammer\*, Adriano Bolondi\*, Helene Kretzmer\*, …, **Hua-Jun Wu**, …, Alexander Meissner\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12:e83077. https://doi.org/10.7554/eLife.83077
+29\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. https://doi.org/10.7554/eLife.83077
 
 28\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023; 12(2):701. https://doi.org/10.3390/jcm12020701
 
@@ -28,7 +28,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 ## 2021
 
-25\. **Wu HJ**\*, Landshammer A*, Stamenova EK, Bolondi A, Kretzmer H, Meissner A, Michor F. Topological isolation of developmental regulators in mammalian genomes. Nat Commun. 2021;12(1):4897.
+25\. **Wu H-J**\*, Landshammer A*, Stamenova EK, Bolondi A, Kretzmer H, Meissner A, Michor F. Topological isolation of developmental regulators in mammalian genomes. Nat Commun. 2021;12(1):4897.
 
 ## 2020
 24\. Shaokun Shu*, **Hua-Jun Wu**\*, Jennifer Y. Ge, …, Franziska Michor, Kornelia Polyak. Synthetic lethal and resistance interactions with BET bromodomain inhibitors in triple-negative breast cancer. Molecular cell 2020 Jun 18;78(6):1096-1113.e8. doi: 10.1016/j.molcel.2020.04.027. Epub 2020 May 15.

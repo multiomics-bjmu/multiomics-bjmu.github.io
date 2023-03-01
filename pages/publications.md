@@ -16,9 +16,9 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 ## 2023
 
-29\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077.[(PDF)](./_data/PAPER/29.pdf)
+29\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077.[(PDF)](../_data/PAPER/29.pdf)
 
-28\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023; 12(2):701. [(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/tree/master/_data/PAPER/28.pdf)
+28\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023; 12(2):701. [(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/28.pdf)
 
 ## 2022
 

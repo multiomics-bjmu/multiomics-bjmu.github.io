@@ -37,7 +37,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 23\. Weiwei Zhang, Ziyi Li, Nana Wei, **Hua-Jun Wu**, Xiaoqi Zheng. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019 Nov 26. pii: btz885. doi: 10.1093/bioinformatics/btz885.
 
 ## 2018
-22\. Kunihiko Hinohara*, **Hua-Jun Wu**\*, Sébastien Vigneau, …, Franziska Michor and Kornelia Polyak. The KDM5B histone demethylase links cellular transcriptomic heterogeneity to therapeutic resistance. Cancer Cell. 2018 Nov 21; doi:10.1016/j.ccell.2018.10.014 
+22\. Kunihiko Hinohara*, **Hua-Jun Wu**\*, Sébastien Vigneau, …, Franziska Michor and Kornelia Polyak. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018 Nov 21; doi:10.1016/j.ccell.2018.10.014 
 
 21\. Vicky A. Appleman*, Hyun Jung Jun*, **Hua-Jun Wu**\*, …, Franziska Michor, Timothy J. Mitchison and Al Charest. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018 Aug 6;9(1):3116.
 

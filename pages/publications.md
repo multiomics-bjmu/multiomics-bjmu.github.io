@@ -37,16 +37,16 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 22\. Zhang W, Li Z, Wei N, **Wu H-J**, Zheng X. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019;36(7):2017-24.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/23.pdf)
 
 ## 2018
-21\. Hinohara K/*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/22.pdf)
+21\. Hinohara K\*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/22.pdf)
 
-20\. Jun HJ/*, Appleman VA/*, **Wu H-J**\*, Rose CM, Pineda JJ, Yeo AT, et al. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018;9(1):3116.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/21.pdf)
+20\. Jun HJ\*, Appleman VA\*, **Wu H-J**\*, Rose CM, Pineda JJ, Yeo AT, et al. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018;9(1):3116.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/21.pdf)
 
 19\. Cimino PJ, Kim Y, **Wu H-J**, Alexander J, Wirsching H-G, Szulzewsky F, et al. Increased HOXA5 expression provides a selective advantage for gain of whole chromosome 7 in IDH wild-type glioblastoma. Genes & development. 2018;32(7-8):512-23.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/20.pdf)
 
 ## 2017
-18\. Han L/*, **Wu H-J**\*, Zhu H/*, Kim K-Y, Marjani SL, Riester M, et al. Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells. Nucleic Acids Research. 2017;45(10):e77-e.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/19.pdf)
+18\. Han L\*, **Wu H-J**\*, Zhu H/*, Kim K-Y, Marjani SL, Riester M, et al. Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells. Nucleic Acids Research. 2017;45(10):e77-e.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/19.pdf)
 
-17\. Riester M/*, **Wu H-J**\*, Zehir A, Gönen M, Moreira AL, Downey RJ, et al. Distance in cancer gene expression from stem cells predicts patient survival. PLOS ONE. 2017;12(3):e0173589.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/18.pdf)
+17\. Riester M\*, **Wu H-J**\*, Zehir A, Gönen M, Moreira AL, Downey RJ, et al. Distance in cancer gene expression from stem cells predicts patient survival. PLOS ONE. 2017;12(3):e0173589.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/18.pdf)
 
 16\. Zheng X, Zhang N, **Wu H-J**, Wu H. Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies. Genome Biology. 2017;18(1):17[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/17.pdf)
 
@@ -68,7 +68,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 10\. Zhang B, Lv Z, Pang J, Liu Y, …, **Wu H-J**, et al. Formation of a Functional Maize Centromere after Loss of Centromeric Sequences and Gain of Ectopic Sequences  The Plant Cell. 2013;25(6):1979-89.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/10.pdf)
 
-9\. **Wu H-J**, Wang Z-M, Wang M, Wang X-J. Widespread Long Noncoding RNAs as Endogenous Target Mimics for MicroRNAs in Plants  Plant Physiology. 2013;161(4):1875-84[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/9.pdf)
+9\. **Wu H-J**\*, Wang Z-M, Wang M, Wang X-J. Widespread Long Noncoding RNAs as Endogenous Target Mimics for MicroRNAs in Plants  Plant Physiology. 2013;161(4):1875-84[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/9.pdf)
 
 8\. Ling H-Q, Zhao S, Liu D, Wang J, …, **Wu H-J**, …, Wang J, et al. Draft genome of the wheat A-genome progenitor Triticum urartu. Nature. 2013;496(7443):87-90[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/8.pdf)
 

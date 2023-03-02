@@ -53,13 +53,13 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 ## 2016
 15\. **Wu H-J**\*, Michor F. A computational strategy to adjust for copy number in tumor Hi-C data. Bioinformatics. 2016;32(24):3695-701.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/16.pdf)
 
-14\. Mahajan N, **Wu H-J**, Bennett RL, Troche C, Licht JD, Weber JD, et al. Sabotaging of the oxidative stress response by an oncogenic noncoding RNA. FASEB J. 2017;31(2):482-90.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/15.pdf)
+14\. Mahajan N, **Wu H-J**, Bennett RL, Troche C, Licht JD, Weber JD, et al. Sabotaging of the oxidative stress response by an oncogenic noncoding RNA. FASEB J. 2017;31(2):482-90.[(PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240659/)
 
 ## 2015
-13\. Zhang N, **Wu H-J**, Zhang W, Wang J, Wu H, Zheng X. Predicting tumor purity from methylation microarray data. Bioinformatics. 2015;31(21):3401-5.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/14.pdf)
+13\. Zhang N\*, **Wu H-J**\*, Zhang W, Wang J, Wu H, Zheng X. Predicting tumor purity from methylation microarray data. Bioinformatics. 2015;31(21):3401-5.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/14.pdf)
 
 ## 2014
-12\. Zheng X, Zhao Q, **Wu H-J**, Li W, Wang H, Meyer CA, et al. MethylPurify: tumor purity deconvolution and differential methylation detection from single tumor DNA methylomes. Genome Biology. 2014;15(7):419.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/13.pdf)
+12\. Zheng X\*, Zhao Q\*, **Wu H-J**\*, Li W, Wang H, Meyer CA, et al. MethylPurify: tumor purity deconvolution and differential methylation detection from single tumor DNA methylomes. Genome Biology. 2014;15(7):419.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/13.pdf)
 
 ## 2013
 <!-- 12\. **Hua-Jun Wu**\*, Zhi-Min Wang*, Meng Wang and Xiu-Jie Wang. Widespread Long Noncoding RNAs as Endogenous Target Mimics for MicroRNAs in Plants. Plant Physiology. 2013 Apr; vol. 161 no. 4 1875-1884.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/12.pdf) -->
@@ -68,16 +68,16 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 10\. Zhang B, Lv Z, Pang J, Liu Y, …, **Wu H-J**, et al. Formation of a Functional Maize Centromere after Loss of Centromeric Sequences and Gain of Ectopic Sequences  The Plant Cell. 2013;25(6):1979-89.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/10.pdf)
 
-9\. **Wu H-J**\*, Wang Z-M, Wang M, Wang X-J. Widespread Long Noncoding RNAs as Endogenous Target Mimics for MicroRNAs in Plants  Plant Physiology. 2013;161(4):1875-84[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/9.pdf)
+9\. **Wu H-J**\*, Wang Z-M\*, Wang M, Wang X-J. Widespread Long Noncoding RNAs as Endogenous Target Mimics for MicroRNAs in Plants  Plant Physiology. 2013;161(4):1875-84[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/9.pdf)
 
 8\. Ling H-Q, Zhao S, Liu D, Wang J, …, **Wu H-J**, …, Wang J, et al. Draft genome of the wheat A-genome progenitor Triticum urartu. Nature. 2013;496(7443):87-90[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/8.pdf)
 
 ## 2012
 7\. Li W, Shuai L, Wan H, Dong M, …, **Wu H-J**, Liu Z-H, et al.Androgenetic haploid embryonic stem cells produce live transgenic mice. Nature. 2012;490(7420):407-11.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/7.pdf)
 
-6\. **Wu H-J**\*, Ma Y-K, Chen T, Wang M, Wang X-J. PsRobot: a web-based plant small RNA meta-analysis toolbox. Nucleic Acids Research. 2012;40(W1):W22-W8.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/6.pdf)
+6\. **Wu H-J**\*, Ma Y-K\*, Chen T, Wang M, Wang X-J. PsRobot: a web-based plant small RNA meta-analysis toolbox. Nucleic Acids Research. 2012;40(W1):W22-W8.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/6.pdf)
 
-5\. **Wu H-J**\*, Zhang Z, Wang J-Y, Oh D-H, Dassanayake M, Liu B, et al. Insights into salt tolerance from the genome of Thellungiella salsuginea. 2012;109(30):12219-24.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/5.pdf)
+5\. **Wu H-J**\*, Zhang Z\*, Wang J-Y\*, Oh D-H\*, Dassanayake M\*, Liu B\*, et al. Insights into salt tolerance from the genome of Thellungiella salsuginea. 2012;109(30):12219-24.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/5.pdf)
 
 4\. Sheng C, Zheng Q, Wu J, …,**Wu H-J**, …,Wang X-J, et al. Direct reprogramming of Sertoli cells into multipotent neural stem cells by defined factors. Cell Research. 2012;22(1):208-18.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/4.pdf)
 

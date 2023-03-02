@@ -12,7 +12,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 
 ## Preprint
 
-29\. **Jiang W-J**\*, Hu C\*, Yi X*, Xu Q, Lou T, **Wang H**, **Zhou J**, **Zhu H**, Li Y, Wen Y, Fan R, Shen J, Wong C.C.L\#; Zhen X\#; **Wu H-J**\# (2022). Assessing base-resolution DNA mechanics on the genome scale. https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1
+29\. **Jiang W-J**\*, Hu C\*, Yi X*, Xu Q, Lou T, **Wang H**, **Zhou J**, **Zhu H**, Li Y, Wen Y, Fan R, Shen J, Wong C.C.L\#, Zhen X\#, **Wu H-J**\# (2022). Assessing base-resolution DNA mechanics on the genome scale.[(HTML)](https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1) 
 
 ## 2023
 
@@ -44,7 +44,7 @@ You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYA
 19\. Cimino PJ, Kim Y, **Wu H-J**, Alexander J, Wirsching H-G, Szulzewsky F, et al. Increased HOXA5 expression provides a selective advantage for gain of whole chromosome 7 in IDH wild-type glioblastoma. Genes & development. 2018;32(7-8):512-23.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/20.pdf)
 
 ## 2017
-18\. Han L\*, **Wu H-J**\*, Zhu H/*, Kim K-Y, Marjani SL, Riester M, et al. Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells. Nucleic Acids Research. 2017;45(10):e77-e.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/19.pdf)
+18\. Han L\*, **Wu H-J**\*, Zhu H\*, Kim K-Y, Marjani SL, Riester M, et al. Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells. Nucleic Acids Research. 2017;45(10):e77-e.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/19.pdf)
 
 17\. Riester M\*, **Wu H-J**\*, Zehir A, Gönen M, Moreira AL, Downey RJ, et al. Distance in cancer gene expression from stem cells predicts patient survival. PLOS ONE. 2017;12(3):e0173589.[(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/raw/master/_data/PAPER/18.pdf)
 

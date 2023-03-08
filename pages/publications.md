@@ -7,7 +7,7 @@ permalink: /publication
 
 # Publications
 
-You can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYAAAAJ&hl=en) for more details<br>
+**You** can visit [Google Scholar](http://scholar.google.com/citations?user=pQF7BaYAAAAJ&hl=en) for more details<br>
 \* Co-first authors          \# Co-corresponding authors
 
 ## Preprint

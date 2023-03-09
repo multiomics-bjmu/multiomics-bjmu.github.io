@@ -12,7 +12,7 @@ permalink: /publication
 
 ## Preprint
 
-29\. **Jiang W-J**\*, Hu C\*, Yi X*, Xu Q, Lou T, **Wang H**, **Zhou J**, **Zhu H**, Li Y, Wen Y, Fan R, Shen J, Wong C.C.L\#, Zhen X\#, **Wu H-J**\# (2022). Assessing base-resolution DNA mechanics on the genome scale.[(HTML)](https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1) ![page](../_data/PAPER/jialu.jpg)
+29\. **Jiang W-J**\*, Hu C\*, Yi X*, Xu Q, Lou T, **Wang H**, **Zhou J**, **Zhu H**, Li Y, Wen Y, Fan R, Shen J, Wong C.C.L\#, Zhen X\#, **Wu H-J**\# (2022). Assessing base-resolution DNA mechanics on the genome scale.[(HTML)](https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1) ![page](/_data/PAPER/jialu.jpg)
 
 ## 2023
 

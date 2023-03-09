@@ -16,7 +16,7 @@ permalink: /publication
 
 ## 2023
 
-28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(jp)](../_data/PAPER/jialu.jpg)
+28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(jp)](../_data/PAPER/test.xls)
 
 27\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H-J**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023;12(2):701. [(PDF)](https://github.com/multiomics-bjmu/multiomics-bjmu.github.io/blob/master/_data/PAPER/28.pdf)
 

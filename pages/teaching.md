@@ -8,3 +8,5 @@ permalink: /teaching
 
 ### 2. Hua-jun Wu's [Github](https://github.com/mthjwu)
 
+### 3. Multiomics class [PDF]()
+

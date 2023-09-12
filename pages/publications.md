@@ -14,7 +14,7 @@ permalink: /publication
 
 
 ## 2023
-30\. Jiang W-J, Hu C, Lai F, Pang W, Yi X, Xu Q, Wang H, Zhou J, Zhu H, Zhong C, Kuang Z, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L, Zheng X, Wu H-J. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)
+30\. **Jiang W-J\***, Hu C,** Lai F**, Pang W, Yi X, Xu Q, **Wang H**, **Zhou J**, **Zhu H**, Zhong C, **Kuang Z**, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L\#, Zheng X\#, **Wu H-J\#**. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)
 
 29\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. Biochemical and Biophysical Research Communications, 675, 113-121.[(PDF)](../papers/30.pdf)
 

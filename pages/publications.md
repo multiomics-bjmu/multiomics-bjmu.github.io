@@ -11,9 +11,11 @@ permalink: /publication
 \* Co-first authors          \# Co-corresponding authors
 
 ## Preprint
-30\. **Jiang W-J**\*, Hu C\*, Yi X*, Xu Q, Lou T, **Wang H**, **Zhou J**, **Zhu H**, Li Y, Wen Y, Fan R, Shen J, Wong C.C.L\#, Zhen X\#, **Wu H-J**\# (2022). Assessing base-resolution DNA mechanics on the genome scale.[(HTML)](https://www.biorxiv.org/content/10.1101/2022.02.16.480786v1)
+
 
 ## 2023
+30\. Jiang W-J, Hu C, Lai F, Pang W, Yi X, Xu Q, Wang H, Zhou J, Zhu H, Zhong C, Kuang Z, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L, Zheng X, Wu H-J. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)
+
 29\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. Biochemical and Biophysical Research Communications, 675, 113-121.[(PDF)](../papers/30.pdf)
 
 28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(PDF)](../papers/29.pdf)

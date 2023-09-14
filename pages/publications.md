@@ -11,37 +11,36 @@ permalink: /publication
 \* Co-first authors          \# Co-corresponding authors
 
 ## Preprint
+30\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. bioRxiv, 2023-06.[(PDF)](../papers/30.pdf)
 
 
 ## 2023
-30\. **Jiang W-J\***, Hu C,** Lai F**, Pang W, Yi X, Xu Q, **Wang H**, **Zhou J**, **Zhu H**, Zhong C, **Kuang Z**, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L\#, Zheng X\#, **Wu H-J\#**. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)[(Code)]()[(News)]()[(Web)](http://www.dnabendnet.com/)[(Data1)](https://zenodo.org/deposit/7699690)[(Data2)](https://zenodo.org/deposit/7663786)
+29\. **Jiang W-J\***, Hu C,** Lai F**, Pang W, Yi X, Xu Q, **Wang H**, **Zhou J**, **Zhu H**, Zhong C, **Kuang Z**, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L\#, Zheng X\#, **Wu H-J\#**. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)[(Code)](https://github.com/JiangWenJie-stack/DNABendNet)[(News)](https://mp.weixin.qq.com/s/m7ooMMt_q8XltT4BdqrONw)[(Web)](http://www.dnabendnet.com/)[(Data)](https://zenodo.org/deposit/7699690)[(Data)](https://zenodo.org/deposit/7663786)
 
-29\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. Biochemical and Biophysical Research Communications, 675, 113-121.[(PDF)](../papers/30.pdf)
+28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(PDF)](../papers/29.pdf)[(Code)](https://elifesciences.org/articles/83077#data)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178990)
 
-28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(PDF)](../papers/29.pdf)[(Code)]()[(News)]()[(Web)]()[(Data)]()
-
-27\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H-J**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023;12(2):701. [(PDF)](../papers/28.pdf)[(Code)]()[(News)]()[(Web)]()[(Data)]()
+27\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H-J**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023;12(2):701. [(PDF)](../papers/28.pdf)[(Data)](https://www.ncbi.nlm.nih.gov/sra/)
 
 ## 2022
 
-26\.  Wei N\*, Nie Y, Liu L\#, Zheng X\#, **Wu H-J**\#. Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.PLOS Computational Biology. 2022;18(12):e1010753. [(PDF)](../papers/27.pdf)
+26\.  Wei N\*, Nie Y, Liu L\#, Zheng X\#, **Wu H-J**\#. Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.PLOS Computational Biology. 2022;18(12):e1010753. [(PDF)](../papers/27.pdf)[(Code)](https://github.com/nanawei11/Secuer)[(News)](https://mp.weixin.qq.com/s/HNQYbE7XE2VEf6s2AgyjpA)[(Data)](https://hemberg-lab.github.io/scRNA.seq.datasets/)[(Data)](https://github.com/ttgump/scDCC/tree/master/data)[(Data)](https://figshare.com/projects/Tabula_Muris_Senis/64982)[(Data)](https://figshare.com/articles/dataset/MCA_DGE_Data/5435866)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158055)
 
-25\. **Wu H-J**\*, Temko D\*, Maliga Z\*, Moreira A, Sei E, Minussi DC, Dean J, Lee C, Xu Q, Hochart G, Jacobson C, Yapp C, Schapiro D, Sorger P, Seeley EH, Navin N, Downey RJ, Michor F. Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients. Cell Genomics.2022;2(8):100165.[(PDF)](../papers/26.pdf)
+25\. **Wu H-J**\*, Temko D\*, Maliga Z\*, Moreira A, Sei E, Minussi DC, Dean J, Lee C, Xu Q, Hochart G, Jacobson C, Yapp C, Schapiro D, Sorger P, Seeley EH, Navin N, Downey RJ, Michor F. Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma patients. Cell Genomics.2022;2(8):100165.[(PDF)](../papers/26.pdf)[(Code)](https://doi.org/10.5281/zenodo.6642983)[(Data)](https://www.ncbi.nlm.nih.gov/search/all/?term=PRJNA594320)
 
 ## 2021
 
-24\. **Wu H-J**\*, Landshammer A/*, Stamenova EK, Bolondi A, Kretzmer H, Meissner A, et al. Topological isolation of developmental regulators in mammalian genomes. Nature Communications. 2021;12(1):4897.[(PDF)](../papers/25.pdf)
+24\. **Wu H-J**\*, Landshammer A/*, Stamenova EK, Bolondi A, Kretzmer H, Meissner A, et al. Topological isolation of developmental regulators in mammalian genomes. Nature Communications. 2021;12(1):4897.[(PDF)](../papers/25.pdf)[(Code)](https://bitbucket.org/mthjwu/loop_cluster)[(Data)](https://www.nature.com/articles/S41467-021-24951-7#data-availability)
 
 ## 2020
-23\. Shu S\*, **Wu H-J**\*, Ge JY, Zeid R, Harris IS, Jovanović B, et al. Synthetic Lethal and Resistance Interactions with BET Bromodomain Inhibitors in Triple-Negative Breast Cancer. Molecular Cell. 2020;78(6):1096-113.e8.[(PDF)](../papers/24.pdf)
+23\. Shu S\*, **Wu H-J**\*, Ge JY, Zeid R, Harris IS, Jovanović B, et al. Synthetic Lethal and Resistance Interactions with BET Bromodomain Inhibitors in Triple-Negative Breast Cancer. Molecular Cell. 2020;78(6):1096-113.e8.[(PDF)](../papers/24.pdf)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131102)
 
 ## 2019
-22\. Zhang W, Li Z, Wei N, **Wu H-J**, Zheng X. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019;36(7):2017-24.[(PDF)](../papers/23.pdf)
+22\. Zhang W, Li Z, Wei N, **Wu H-J**, Zheng X. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019;36(7):2017-24.[(PDF)](../papers/23.pdf)[Tool](https://github.com/Xiaoqizheng/InfiniumPurify)
 
 ## 2018
-21\. Hinohara K\*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](../papers/22.pdf)
+21\. Hinohara K\*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](../papers/22.pdf)[Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104988)
 
-20\. Jun HJ\*, Appleman VA\*, **Wu H-J**\*, Rose CM, Pineda JJ, Yeo AT, et al. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018;9(1):3116.[(PDF)](../papers/21.pdf)
+20\. Jun HJ\*, Appleman VA\*, **Wu H-J**\*, Rose CM, Pineda JJ, Yeo AT, et al. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018;9(1):3116.[(PDF)](../papers/21.pdf)[Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
 
 19\. Cimino PJ, Kim Y, **Wu H-J**, Alexander J, Wirsching H-G, Szulzewsky F, et al. Increased HOXA5 expression provides a selective advantage for gain of whole chromosome 7 in IDH wild-type glioblastoma. Genes & development. 2018;32(7-8):512-23.[(PDF)](../papers/20.pdf)
 

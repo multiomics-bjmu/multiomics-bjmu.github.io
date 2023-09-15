@@ -35,10 +35,10 @@ permalink: /publication
 23\. Shu S\*, **Wu H-J**\*, Ge JY, Zeid R, Harris IS, Jovanović B, et al. Synthetic Lethal and Resistance Interactions with BET Bromodomain Inhibitors in Triple-Negative Breast Cancer. Molecular Cell. 2020;78(6):1096-113.e8.[(PDF)](../papers/24.pdf)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131102)
 
 ## 2019
-22\. Zhang W, Li Z, Wei N, **Wu H-J**, Zheng X. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019;36(7):2017-24.[(PDF)](../papers/23.pdf)[Tool](https://github.com/Xiaoqizheng/InfiniumPurify)
+22\. Zhang W, Li Z, Wei N, **Wu H-J**, Zheng X. Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities. Bioinformatics. 2019;36(7):2017-24.[(PDF)](../papers/23.pdf)[(Tool)](https://github.com/Xiaoqizheng/InfiniumPurify)
 
 ## 2018
-21\. Hinohara K\*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](../papers/22.pdf)[Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104988)
+21\. Hinohara K\*, **Wu H-J**\*, Vigneau S, McDonald TO, Igarashi KJ, Yamamoto KN, et al. KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance. Cancer Cell. 2018;34(6):939-53.e9. [(PDF)](../papers/22.pdf)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104988)
 
 20\. Jun HJ\*, Appleman VA\*, **Wu H-J**\*, Rose CM, Pineda JJ, Yeo AT, et al. A PDGFRα-driven mouse model of glioblastoma reveals a stathmin1-mediated mechanism of sensitivity to vinblastine. Nature Communications. 2018;9(1):3116.[(PDF)](../papers/21.pdf)[Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
 

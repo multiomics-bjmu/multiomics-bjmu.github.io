@@ -12,7 +12,7 @@ permalink: /news
 
 ### July
 - **Publishment--**
-[A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism.](../papers/)
+[A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism.](../papers/30(2).pdf)
 - **New Member--**
 Na-Na Wei joins us as a postdoctor.
 - **New Member--**

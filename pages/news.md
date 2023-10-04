@@ -16,7 +16,7 @@ permalink: /news
 - **New Member--**
 Na-Na Wei joins us as a postdoctor.
 - **New Member--**
-Kang-Wen Cai and Yuan-Chen Sun join us as a technician.
+Kang-Wen Cai and Yuan-Chen Sun join us as technicians.
 
 ### March
 - **New Member--**

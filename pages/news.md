@@ -6,11 +6,27 @@ permalink: /news
 ---
 
 # 2023
+### September
+- **Publishment--**
+[Assessing base-resolution DNA mechanics on the genome scale.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad720/7269185?login=false)
+
+### July
+- **Publishment--**
+[A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism.](../papers/)
+- **New Member--**
+Na-Na Wei joins us as a postdoctor.
+- **New Member--**
+Kang-Wen Cai and Yuan-Chen Sun join us as a technician.
+
+### March
+- **New Member--**
+Fu-Ting Lai joins us as a student.
+
 ### February
 - **New Member--**
 Ze-Yu Kuang joins us as a student.
 - **New Member--**
-Fang-Di Xu joins us as a visiting student.
+Fang-Di Xu joins us as a student.
 
 ### January
 - **Publishment--**

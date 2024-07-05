@@ -5,6 +5,18 @@ subtitle: News&Events in Wu Lab
 permalink: /news
 ---
 
+# 2024
+### June
+- **Publishment--**
+[CRISPR screens reveal convergent targeting strategies against evolutionarily distinct chemoresistance in cancer.](https://www.nature.com/articles/s41467-024-49673-4)
+- **Publishment--**
+[Intratumoral microbiome is associated with gastric cancer prognosis and therapyefficacy.](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2369336)
+
+
+### March
+- **New Member--**
+An Liu and Rui-Xiang Gao join us as technicians.
+
 # 2023
 ### September
 - **Publishment--**

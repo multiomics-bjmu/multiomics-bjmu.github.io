@@ -13,15 +13,18 @@ permalink: /publication
 ## Preprint
 
 
+## 2024
+31\. **Gangjian Wang**\*, **Haojie Wang**\*, **Xin Ji**\*, Tong Wange, Ye Zhang, Wenjie Jiang, Lin Meng, **Hua-Jun Wu**\#, Xiaofang Xing\#, and Jiafu Ji\#. (2024). Intratumoral microbiome is associated with gastric cancer prognosis and therapy efficacy. Gut Microbes. [(PDF)](../papers/33.pdf)
+
+30\. Chunge Zhong\*, **Wen-Jie Jiang**\*, Yingjia Yao, Zexu Li, You Li, Shengnan Wang, Xiaofeng Wang, Wenjuan Zhu, Siqi Wu, Jing Wang, Shuangshuang Fan, Shixin Ma, Yeshu Liu, Han Zhang, Wenchang Zhao, Lu Zhao, Yi Feng, Zihan Li, Ruifang Guo, Li Yu, Fengyun Pei, Jun Hu, Xingzhi Feng, Zihuan Yang, Zhengjia Yang, Xueying Yang, Yue Hou, Danni Zhang, Dake Xu, Ren Sheng, Yihao Li, Lijun Liu, **Hua-Jun Wu**\#, Jun Huang\#, Teng Fei\#. (2024). CRISPR screens reveal convergent targeting strategies against evolutionarily distinct chemoresistance in cancer. Nature Communications. [(PDF)](../papers/32.pdf)
+
 
 ## 2023
-30\. **Jiang W-J**\*, Hu C, **Lai F**, Pang W, Yi X, Xu Q, **Wang H**, **Zhou J**, **Zhu H**, Zhong C, **Kuang Z**, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L\#, Zheng X\#, **Wu H-J**\#. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)[(Code)](https://github.com/JiangWenJie-stack/DNABendNet)[(News)](https://mp.weixin.qq.com/s/m7ooMMt_q8XltT4BdqrONw)[(Web)](http://www.dnabendnet.com/)[(Data1)]( https://zenodo.org/record/7699690)[(Data2)](https://zenodo.org/record/7663786)
+29\. **Jiang W-J**\*, Hu C, **Lai F**, Pang W, Yi X, Xu Q, **Wang H**, **Zhou J**, **Zhu H**, Zhong C, **Kuang Z**, Fan R， Shen J, Zhou X, Wang Y-J, Wong Catherine C. L\#, Zheng X\#, **Wu H-J**\#. (2023). Assessing base-resolution DNA mechanics on the genome scale. Nucleic Acids Research. [(PDF)](../papers/31.pdf)[(Code)](https://github.com/JiangWenJie-stack/DNABendNet)[(News)](https://mp.weixin.qq.com/s/m7ooMMt_q8XltT4BdqrONw)[(Web)](http://www.dnabendnet.com/)[(Data1)]( https://zenodo.org/record/7699690)[(Data2)](https://zenodo.org/record/7663786)
 
-29\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. Biochem Biophys Res Commun. 2023 Oct 1;675:113-121.[(PDF)](../papers/30(2).pdf)
+28\. Yao Y\*, Zhang Y, Li Z, Chen Z, Wang X, Li Z, Yu L, Cheng X, Li W, **Jiang W-J**, **Wu H-J**, Feng Z, Sun J, Fei T\# (2023) A deep learning-based drug repurposing screening and validation for anti-SARS-CoV-2 compounds by targeting the cell entry mechanism. Biochem Biophys Res Commun. 2023 Oct 1;675:113-121.[(PDF)](../papers/30(2).pdf)
 
-28\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(PDF)](../papers/29.pdf)[(Code)](https://elifesciences.org/articles/83077#data)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178990)
-
-27\.  Cao Y\*, **Wang H**\*, Jin Z\*, Hang J, Jiang H\#, **Wu H-J**\#, Zhang Z\#. Characterization of Non-Obstructive Azoospermia in Men Using Gut Microbial Profiling. Journal of Clinical Medicine. 2023;12(2):701. [(PDF)](../papers/28.pdf)[(Data)](https://www.ncbi.nlm.nih.gov/sra/)
+27\.  Landshammer A\*, Bolondi A\*, Kretzmer H, Much C, Buschow R, Rose A, **Wu H-J**, Mackowiak SD, Braendl B, Giesselmann P, Tornisiello R, Parsi KM, Huey J, Mielke T, Meierhofer D, Maehr R, Hnisz D, Michor F, Rinn JL, Meissner A\# (2023) T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation. eLife 12, e83077. [(PDF)](../papers/29.pdf)[(Code)](https://elifesciences.org/articles/83077#data)[(Data)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178990)
 
 ## 2022
 

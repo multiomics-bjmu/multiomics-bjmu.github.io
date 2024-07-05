@@ -11,9 +11,9 @@ permalink: /publication
 \* Co-first authors          \# Co-corresponding authors
 
 ## Preprint
-1\. Jiyuan Yang, Yang Qu, **Nana Wei**, Congcong Hu, **Hua-Jun Wu**\#, Xiaoqi Zheng\#.Spider: a flexible and unified framework for simulating spatial transcriptomics data.[(Paper)](https://www.biorxiv.org/content/10.1101/2023.05.21.541605v1)
+1\. Jiyuan Yang, Yang Qu, **Nana Wei**, Congcong Hu, **Hua-Jun Wu**\#, Xiaoqi Zheng\#. Spider: a flexible and unified framework for simulating spatial transcriptomics data.[(Paper)](https://www.biorxiv.org/content/10.1101/2023.05.21.541605v1)
 
-2\. Congcong Hu, **Nana Wei**, Jiyuan Yang, **Hua-Jun Wu**\#, Xiaoqi Zheng\#.STCC: consensus clustering enhances spatial domain detection for spatial transcriptomics data.[(Paper)](https://www.biorxiv.org/content/10.1101/2024.02.25.581996v1.full)
+2\. Congcong Hu, **Nana Wei**, Jiyuan Yang, **Hua-Jun Wu**\#, Xiaoqi Zheng\#. STCC: consensus clustering enhances spatial domain detection for spatial transcriptomics data.[(Paper)](https://www.biorxiv.org/content/10.1101/2024.02.25.581996v1.full)
 
 ## 2024
 31\. Gangjian Wang\*, **Haojie Wang**\*, Xin Ji\*, Tong Wange, Ye Zhang, **Wenjie Jiang**, Lin Meng, **Hua-Jun Wu**\#, Xiaofang Xing\#, and Jiafu Ji\#. (2024). Intratumoral microbiome is associated with gastric cancer prognosis and therapy efficacy. Gut Microbes. [(PDF)](../papers/33.pdf)

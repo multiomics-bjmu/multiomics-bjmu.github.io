@@ -14,7 +14,7 @@ permalink: /publication
 
 
 ## 2024
-31\. **Gangjian Wang**\*, **Haojie Wang**\*, **Xin Ji**\*, Tong Wange, Ye Zhang, Wenjie Jiang, Lin Meng, **Hua-Jun Wu**\#, Xiaofang Xing\#, and Jiafu Ji\#. (2024). Intratumoral microbiome is associated with gastric cancer prognosis and therapy efficacy. Gut Microbes. [(PDF)](../papers/33.pdf)
+31\. Gangjian Wang\*, **Haojie Wang**\*, Xin Ji\*, Tong Wange, Ye Zhang, Wenjie Jiang, Lin Meng, **Hua-Jun Wu**\#, Xiaofang Xing\#, and Jiafu Ji\#. (2024). Intratumoral microbiome is associated with gastric cancer prognosis and therapy efficacy. Gut Microbes. [(PDF)](../papers/33.pdf)
 
 30\. Chunge Zhong\*, **Wen-Jie Jiang**\*, Yingjia Yao, Zexu Li, You Li, Shengnan Wang, Xiaofeng Wang, Wenjuan Zhu, Siqi Wu, Jing Wang, Shuangshuang Fan, Shixin Ma, Yeshu Liu, Han Zhang, Wenchang Zhao, Lu Zhao, Yi Feng, Zihan Li, Ruifang Guo, Li Yu, Fengyun Pei, Jun Hu, Xingzhi Feng, Zihuan Yang, Zhengjia Yang, Xueying Yang, Yue Hou, Danni Zhang, Dake Xu, Ren Sheng, Yihao Li, Lijun Liu, **Hua-Jun Wu**\#, Jun Huang\#, Teng Fei\#. (2024). CRISPR screens reveal convergent targeting strategies against evolutionarily distinct chemoresistance in cancer. Nature Communications. [(PDF)](../papers/32.pdf)
 
